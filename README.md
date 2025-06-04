@@ -90,7 +90,7 @@
   <li class="my-0">Validation Accuracy: ~XX%</li>
   <li class="my-0">Loss curves and Confusion Matrix displayed</li>
 </ul>
-<p><em>(Replace XX% with your actual model results)</em></p>
+<p><em>(Replace 187,331 with your actual model results)</em></p>
 
 <hr>
 <h2 id="conclusion">✅ Conclusion</h2>
